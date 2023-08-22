@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "router test",
     "name": "router-test",
     "slug": "router-test",
     "version": "1.0.0",
@@ -25,6 +26,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1694e85f-8b37-4574-bca2-701676c4d012"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1694e85f-8b37-4574-bca2-701676c4d012"
     }
   }
 }
